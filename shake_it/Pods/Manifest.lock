@@ -1,0 +1,64 @@
+PODS:
+  - AFNetworking (3.2.0):
+    - AFNetworking/NSURLSession (= 3.2.0)
+    - AFNetworking/Reachability (= 3.2.0)
+    - AFNetworking/Security (= 3.2.0)
+    - AFNetworking/Serialization (= 3.2.0)
+    - AFNetworking/UIKit (= 3.2.0)
+  - AFNetworking/NSURLSession (3.2.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.2.0)
+  - AFNetworking/Security (3.2.0)
+  - AFNetworking/Serialization (3.2.0)
+  - AFNetworking/UIKit (3.2.0):
+    - AFNetworking/NSURLSession
+  - AVOSCloud (7.3.1)
+  - FMDB (2.7.2):
+    - FMDB/standard (= 2.7.2)
+  - FMDB/standard (2.7.2)
+  - GHODictionary (1.1.0)
+  - JCore (1.1.5)
+  - JPush (3.0.6):
+    - JCore (~> 1.1.1)
+  - MJRefresh (3.1.14)
+  - MPMessagePack (1.4.3):
+    - GHODictionary
+  - Reachability (3.2)
+  - RNCryptor-objc (3.0.5)
+  - UMengAnalytics (4.2.4)
+  - WebViewJavascriptBridge (6.0.3)
+  - WeiboSDK (3.1.3)
+
+DEPENDENCIES:
+  - AFNetworking
+  - AVOSCloud
+  - FMDB
+  - JPush
+  - MJRefresh
+  - MPMessagePack
+  - Reachability
+  - RNCryptor-objc
+  - UMengAnalytics
+  - WebViewJavascriptBridge
+  - WeiboSDK
+
+SPEC CHECKSUMS:
+  AFNetworking: 8ac6017b94ea105479f7776e5288e48ae9c59bb4
+  AVOSCloud: 2c9e87d02f29e282bdf28a7e22f26992a6a5758f
+  FMDB: 6198a90e7b6900cfc046e6bc0ef6ebb7be9236aa
+  GHODictionary: 225e042596a4b3d5b66b2b24250086b2f95514af
+  JCore: 9bd9c770c877c583d98b90a68792b8361974c231
+  JPush: c41be50eb1a574a66aeb68d237f00a4ec6ec3a82
+  MJRefresh: 6642e35b3227a5447b9fd5e17c552c90196c9859
+  MPMessagePack: 6dc3a4b93bfdc7cdafcb64de62e2adc50cd99880
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+  RNCryptor-objc: a65b15493de05dda4af0f392c70372b7a5625aab
+  UMengAnalytics: ef8d45f94c0e5771dc364cf6a5731d9d3b101da2
+  WebViewJavascriptBridge: 7f5bc4d3581e672e8f32bd0f812d54bc69bb8e29
+  WeiboSDK: acb067053668102cf07d01aa7604350162c2e466
+
+PODFILE CHECKSUM: 59e9655fdd55c2a0937b354d64ca7eaeaf9a32d1
+
+COCOAPODS: 1.4.0.beta.1

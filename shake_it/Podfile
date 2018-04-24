@@ -1,0 +1,23 @@
+platform :ios, '8.0'
+
+inhibit_all_warnings!
+    
+# use_frameworks!
+target 'ST' do
+ 
+    pod 'MJRefresh'
+    pod 'FMDB'
+    pod 'RNCryptor-objc'
+    pod 'MPMessagePack'
+    pod 'UMengAnalytics'
+    pod 'JPush'
+    pod 'AVOSCloud'
+    pod 'Reachability'
+    pod 'AFNetworking'
+    pod 'WebViewJavascriptBridge'
+    pod 'WeiboSDK'
+
+   
+
+end
+
